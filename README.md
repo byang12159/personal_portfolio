@@ -1,38 +1,26 @@
 # personal_portfolio
 
-<head>
-    <style>
-        /* Center the text and modify the font size for h1 */
-        h2 {
-            text-align: center; /* Center the text */
-            font-size: 24px; /* Adjust the size as needed */
-        }
-    </style>
-</head>
+<p style="text-align: center; font-size: 24px"> UAV Landing Using Perception Contracts</p>
+![Alt Text](https://github.com/byang12159/personal_portfolio/blob/main/images/RAL_lighting.JPEG)
 
+<p style="text-align: center; font-size: 24px"> ME446 Project Demo</p>
 
-
-<body>
-    <h2>ME446 Project Demo</h1>
-</body>
-<!-- <p style="text-align: center;"> ME446 Project Demo</p> -->
-<div style="text-align:center;"> 
+<div style="text-align:center;">
     <img src="{{ "images/ME446_robotpath.gif" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
 </div>
 
 <!-- add year of project  -->
 
-<h2>ECE484 Project: Carla Simulator</h1>
-<!-- <p style="text-align: center;"> ECE484 Project: Carla Simulator</p> -->
+<p style="text-align: center; font-size: 24px"> ECE484 Project: Carla Simulator</p>
 
 <head>
     <style>
         .image-container {
             display: flex;
-            justify-content: space-between; /* Adjust this property to control spacing */
+            justify-content: space-between; /*Adjust this property to control spacing */
         }
         .image-container img {
-            max-width: 45%; /* Adjust image width as needed */
+            max-width: 45%; /* Adjust image width as needed*/
         }
     </style>
 </head>
@@ -49,6 +37,6 @@ controller is developed to complete the generalized race course in the shortest 
 
 The controller utilizes PRM-variant as its sampling strategy and finds shortest path by performing topological sort in a directed acyclic graph.
 
-Lateral control of the car is based on a PD controller. 
+Lateral control of the car is based on a PD controller.
 For longditudinal control, the acceleration is based on path curvature. Using the current position of the car and the next two waypoints on our
 path, we calculated the radius of the circle generated from those three points. The radius of the circle tells us how much curvature is coming up in our path. We tuned a logarithm relationship between the radius and desired vehicle speed
