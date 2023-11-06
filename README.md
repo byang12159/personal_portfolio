@@ -1,6 +1,13 @@
 # personal_portfolio
 
-![Alt Text](https://github.com/byang12159/personal_portfolio/blob/main/images/RAL_lighting.JPG)
+
+<div style="text-align:center;">
+    <img src="{{ "images/RAL_lighting.JPG" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <p style="text-align: center; font-size: 24px;">UAV Landing Using Perception Contracts</p>
+  <p style="text-align: right;">Sring 2023</p>
+</div>
 <p style="text-align: center; font-size: 24px"> UAV Landing Using Perception Contracts</p>
 Demonstrate learning-based approach that can automatically characterize the error of a perception module from data and use this for
 safe control. The proposed approach constructs a perception contract (PC), which generates a set that contains the groundtruth
