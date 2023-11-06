@@ -3,4 +3,4 @@
 # Demo
 <hr>
 <p align="center">
-<img src="https://github.com/byang12159/portfolio/blob/master/images/ME446_robotpath.gif" width="52%"/> 
+<img src="https://github.com/byang12159/personal_portfolio/blob/main/images/ME446_robotpath.gif" width="52%"/> 
