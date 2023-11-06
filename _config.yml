@@ -1,4 +1,6 @@
 url: 'https://byang12159.github.io/' # your main domain
 baseurl: 'personal_portfolio/'
 # theme: 'pages-themes/cayman@v0.2.0'
-markdown: GFM
+# markdown: GFM
+
+theme: jekyll-theme-hacker
