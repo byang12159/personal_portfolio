@@ -1,7 +1,20 @@
 # personal_portfolio
 
+<head>
+    <style>
+        /* Center the text and modify the font size for h1 */
+        h1 {
+            text-align: center; /* Center the text */
+            font-size: 36px; /* Adjust the size as needed */
+        }
+    </style>
+</head>
 
 
+
+<body>
+    <h1>ME446 Project Demo</h1>
+</body>
 <p style="text-align: center;"> ME446 Project Demo</p>
 <div style="text-align:center;"> 
     <img src="{{ "images/ME446_robotpath.gif" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
