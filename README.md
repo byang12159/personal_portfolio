@@ -3,9 +3,9 @@
 <head>
     <style>
         /* Center the text and modify the font size for h1 */
-        h1 {
+        h2 {
             text-align: center; /* Center the text */
-            font-size: 36px; /* Adjust the size as needed */
+            font-size: 24px; /* Adjust the size as needed */
         }
     </style>
 </head>
@@ -13,16 +13,17 @@
 
 
 <body>
-    <h1>ME446 Project Demo</h1>
+    <h2>ME446 Project Demo</h1>
 </body>
-<p style="text-align: center;"> ME446 Project Demo</p>
+<!-- <p style="text-align: center;"> ME446 Project Demo</p> -->
 <div style="text-align:center;"> 
     <img src="{{ "images/ME446_robotpath.gif" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
 </div>
 
 <!-- add year of project  -->
 
-<p style="text-align: center;"> ECE484 Project: Carla Simulator</p>
+<h2>ECE484 Project: Carla Simulator</h1>
+<!-- <p style="text-align: center;"> ECE484 Project: Carla Simulator</p> -->
 
 <head>
     <style>
