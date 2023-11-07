@@ -27,7 +27,7 @@
 
 <body>
     <div class="container">
-        <img src="{{ "images/IMG_7436.HEIC" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
+        <img src="{{ "images/IMG_1807.jpg" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
         <div>
             <h1>Benjamin C Yang</h1>
             <p>Hi, i am master in MechSE.</p>
