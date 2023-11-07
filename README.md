@@ -28,10 +28,11 @@
 
 <body>
     <div class="container">
-        <img src="{{ "images/IMG_18077.jpg" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
+        <img class="image" src="./images/IMG_18077.jpg" alt="Image Description">
+        <!-- <img src="{{ "images/IMG_18077.jpg" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" /> -->
         <div>
             <h1>Benjamin C Yang</h1>
-            <p>Hi, i am master in MechSE.</p>
+            <p> I am currently a 2nd year Masters student in the Mechanical Engineering Department of the University of Illinois at Urbana Champaign. Full stcack robotics PI Sayan MItrra</p>
         </div>
     </div>
 </body>
