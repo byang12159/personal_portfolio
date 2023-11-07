@@ -84,9 +84,11 @@ ICRA Submission 2024
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-  <p style="text-align: center; font-size: 24px;">ME446 Project Demo</p>
+  <p style="text-align: center; font-size: 24px;">ME446 Project: 6DOF Manipulator Scripting</p>
   <p style="text-align: right;">Spring 2023</p>
 </div>
+
+Complete the test environment while demonstrating task space PD and feed forward control tracking, force control, and impedance control.
 
 <body>
     <div class="image-container">
