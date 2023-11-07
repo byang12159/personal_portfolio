@@ -48,8 +48,8 @@ title: ""
 <!-- NeRF Simulation -->
 <body>
     <div class="image-container">
-        <img src="{{ "images/NeRF_decreasingLight.gif" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
-        <img src="{{ "images/NeRF_increasingFog.gif" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
+        <img src="{{ "images/NeRF_decreasingLight.gif" | prepend: "personal_portfolio/" | prepend: site.url}}" alt="zigzag" />
+        <img src="{{ "images/NeRF_increasingFog.gif" | prepend: "personal_portfolio/" | prepend: site.url}}" alt="zigzag" />
     </div>
 </body>
 
