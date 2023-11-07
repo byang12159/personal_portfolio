@@ -19,7 +19,6 @@
         }
 
         .image {
-            max-width: 10%;
             flex: 1;
             margin-right: 15px; /* Adjust the margin as needed */
         }
