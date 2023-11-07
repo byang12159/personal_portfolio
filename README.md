@@ -31,9 +31,11 @@
         <!-- <img src="{{ "images/IMG_18077.jpg" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" /> -->
         <div>
             <h1>Benjamin C Yang</h1>
-            <p> I am currently a 2nd year Masters student in the Mechanical Engineering Department of the University of Illinois at Urbana Champaign. I am a graduate research assistant in the Reliable Autonomy Group @ UIUC. I aspire to become a full stack robotics engineer, working with both software and hardware.  
+            <p> 
+            I am currently a 2nd year Masters student in the Mechanical Engineering Department of the University of Illinois at Urbana Champaign. I am a graduate research assistant in the Reliable Autonomy Group @ UIUC. I aspire to become a full stack robotics engineer, working with both software and hardware. <br> 
             
-            I love to build and ride bikes, urban photography, and tennis.</p>
+            I love to build and ride bikes, urban photography, and tennis.
+            </p>
         </div>
     </div>
 </body>
