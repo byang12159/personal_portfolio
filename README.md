@@ -1,3 +1,6 @@
+layout: default
+title: ""
+
 <head>
     <style>
         .image-container {
