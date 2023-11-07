@@ -4,9 +4,10 @@
 <div style="text-align:center;">
     <img src="{{ "images/RAL_lighting.JPG" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
 </div>
+<img src="https://github.com/byang12159/personal_portfolio/blob/main/images/RAL_lighting.JPG" alt="Image Description">
 <div style="display: flex; justify-content: space-between;">
   <p style="text-align: center; font-size: 24px;">UAV Landing Using Perception Contracts</p>
-  <p style="text-align: right;">Sring 2023</p>
+  <p style="text-align: right;">Spring 2023</p>
 </div>
 <p style="text-align: center; font-size: 24px"> UAV Landing Using Perception Contracts</p>
 Demonstrate learning-based approach that can automatically characterize the error of a perception module from data and use this for
