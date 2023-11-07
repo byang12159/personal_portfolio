@@ -31,7 +31,7 @@
         <img class="image" src="./images/IMG_18077.jpg" alt="Image Description" style="width: 300px;">
         <!-- <img src="{{ "images/IMG_18077.jpg" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" /> -->
         <div>
-            <h1>Benjamin C Yang</h1>
+            <!-- <h1>Benjamin C Yang</h1> -->
             <p> 
             I am currently a 2nd year Masters student in the Mechanical Engineering Department of the University of Illinois at Urbana Champaign. I am a graduate research assistant in the Reliable Autonomy Group @ UIUC. I aspire to become a full stack robotics engineer, working with both software and hardware. <br> 
             
@@ -60,7 +60,7 @@
 
 Closed loop vision-based simulation for quadcopter. Images generated from NeRF model of the flying arena. Quadcopter running monte carlo particle filter localization. 
 
-TACAS Submission 2024
+TACAS Submission 2024:  <br />
 [GitHub Link](https://github.com/byang12159/NeRF_UAV_simulation)
 
 
