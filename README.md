@@ -42,6 +42,7 @@
 </body>
 
 <p style="text-align: center; font-size: 36px"> Past Projects</p>
+---
 
 <!-- NeRF Simulation -->
 <body>
