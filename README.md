@@ -10,7 +10,31 @@
     </style>
 </head>
 
-<p style="text-align: center; font-size: 36px"> Projects</p>
+<head>
+    <style>
+        /* Add CSS styles here */
+        .container {
+            display: flex;
+            align-items: center;
+        }
+
+        .image {
+            flex: 1;
+            margin-right: 20px; /* Adjust the margin as needed */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img class="image" src="portfolio_bike.jpg" alt="Image Description">
+        <div>
+            <h1>Your Title</h1>
+            <p>Your text goes here.</p>
+        </div>
+    </div>
+</body>
+
+<p style="text-align: center; font-size: 36px"> Past Projects</p>
 
 <!-- NeRF Simulation -->
 <body>
@@ -30,16 +54,6 @@ Closed loop vision-based simulation for quadcopter. Images generated from NeRF m
 TACAS Submission 2024
 
 <!-- RAL PAPER -->
-<div style="text-align:center;">
-    <img src="{{ "images/RAL_lighting.JPG" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
-</div>
-
-<div style="display: flex; justify-content: space-between;">
-  <p style="text-align: center; font-size: 24px;">UAV Simulation: Vision-based Closed Loop Navigation</p>
-  <p style="text-align: right;">Fall 2023</p>
-</div>
-
-
 <div style="text-align:center;">
     <img src="{{ "images/RAL_lighting.JPG" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
 </div>
