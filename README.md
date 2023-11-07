@@ -60,7 +60,7 @@
 
 Closed loop vision-based simulation for quadcopter. Images generated from NeRF model of the flying arena. Quadcopter running monte carlo particle filter localization. 
 
-TACAS Submission 2024:  <br />
+TACAS Submission 2024  <br />
 [GitHub Link](https://github.com/byang12159/NeRF_UAV_simulation)
 
 
