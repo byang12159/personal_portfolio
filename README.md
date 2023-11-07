@@ -20,13 +20,13 @@
 
         .image {
             flex: 1;
-            margin-right: 20px; /* Adjust the margin as needed */
+            margin-right: 10px; /* Adjust the margin as needed */
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <img class="image" src="portfolio_bike.jpg" alt="Image Description">
+        <img src="{{ "images/portfolio_bike.jpg" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
         <div>
             <h1>Your Title</h1>
             <p>Your text goes here.</p>
