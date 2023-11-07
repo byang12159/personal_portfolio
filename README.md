@@ -1,4 +1,43 @@
+<head>
+    <style>
+        .image-container {
+            display: flex;
+            justify-content: space-between; /*Adjust this property to control spacing */
+        }
+        .image-container img {
+            max-width: 45%; /* Adjust image width as needed*/
+        }
+    </style>
+</head>
+
 <p style="text-align: center; font-size: 36px"> Projects</p>
+
+<!-- NeRF Simulation -->
+<body>
+    <div class="image-container">
+        <img src="{{ "images/NeRF_decreasingLight.gif" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
+        <img src="{{ "images/NeRF_increasingFog.gif" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
+    </div>
+</body>
+
+<div style="display: flex; justify-content: space-between;">
+  <p style="text-align: center; font-size: 24px;">UAV Simulation: Vision-based Closed Loop Navigation</p>
+  <p style="text-align: right;">Fall 2023</p>
+</div>
+
+Closed loop vision-based simulation for quadcopter. Images generated from NeRF model of the flying arena. Quadcopter running monte carlo particle filter localization. 
+
+TACAS Submission 2024
+
+<!-- RAL PAPER -->
+<div style="text-align:center;">
+    <img src="{{ "images/RAL_lighting.JPG" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+  <p style="text-align: center; font-size: 24px;">UAV Simulation: Vision-based Closed Loop Navigation</p>
+  <p style="text-align: right;">Fall 2023</p>
+</div>
 
 
 <div style="text-align:center;">
@@ -28,18 +67,6 @@ ICRA Submission 2024
   <p style="text-align: right;">Spring 2023</p>
 </div>
 
-
-<head>
-    <style>
-        .image-container {
-            display: flex;
-            justify-content: space-between; /*Adjust this property to control spacing */
-        }
-        .image-container img {
-            max-width: 45%; /* Adjust image width as needed*/
-        }
-    </style>
-</head>
 <body>
     <div class="image-container">
         <img src="{{ "images/ECE484_evasion.gif" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
