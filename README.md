@@ -20,16 +20,17 @@
 
         .image {
             flex: 1;
-            margin-right: 10px; /* Adjust the margin as needed */
+            margin-right: 15px; /* Adjust the margin as needed */
         }
     </style>
 </head>
+
 <body>
     <div class="container">
         <img src="{{ "images/portfolio_bike.jpg" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
         <div>
-            <h1>Your Title</h1>
-            <p>Your text goes here.</p>
+            <h1>Benjamin C Yang</h1>
+            <p>Hi, i am master in MechSE.</p>
         </div>
     </div>
 </body>
