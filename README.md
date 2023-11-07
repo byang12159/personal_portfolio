@@ -28,7 +28,7 @@
 
 <body>
     <div class="container">
-        <img class="image" src="./images/IMG_18077.jpg" alt="Image Description">
+        <img class="image" src="./images/IMG_18077.jpg" alt="Image Description" style="width: 200px;">
         <!-- <img src="{{ "images/IMG_18077.jpg" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" /> -->
         <div>
             <h1>Benjamin C Yang</h1>
