@@ -1,15 +1,15 @@
-# personal_portfolio
+<p style="text-align: center; font-size: 36px"> Projects</p>
 
 
 <div style="text-align:center;">
     <img src="{{ "images/RAL_lighting.JPG" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
 </div>
-<img src="https://github.com/byang12159/personal_portfolio/blob/main/images/RAL_lighting.JPG" alt="Image Description">
+
 <div style="display: flex; justify-content: space-between;">
   <p style="text-align: center; font-size: 24px;">UAV Landing Using Perception Contracts</p>
   <p style="text-align: right;">Spring 2023</p>
 </div>
-<p style="text-align: center; font-size: 24px"> UAV Landing Using Perception Contracts</p>
+
 Demonstrate learning-based approach that can automatically characterize the error of a perception module from data and use this for
 safe control. The proposed approach constructs a perception contract (PC), which generates a set that contains the groundtruth
 value that is being estimated by the perception module, with high probability.
@@ -22,10 +22,11 @@ ICRA Submission 2024
 <div style="text-align:center;">
     <img src="{{ "images/ME446_robotpath.gif" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
 </div>
-<p style="text-align: center; font-size: 24px"> ME446 Project Demo</p>
 
-<!-- add year of project  -->
-
+<div style="display: flex; justify-content: space-between;">
+  <p style="text-align: center; font-size: 24px;">ME446 Project Demo</p>
+  <p style="text-align: right;">Spring 2023</p>
+</div>
 
 
 <head>
@@ -46,7 +47,11 @@ ICRA Submission 2024
     </div>
 </body>
 
-<p style="text-align: center; font-size: 24px"> ECE484 Project: Carla Simulator</p>
+<div style="display: flex; justify-content: space-between;">
+  <p style="text-align: center; font-size: 24px;">ECE484 Project: Carla Simulator</p>
+  <p style="text-align: right;">Fall 2022</p>
+</div>
+
 The simulation is part of the Generalized Racing Intelligence Competition (GRAIC). Given
 ground-truth perception information, the focus of the project is on the planning and control of the vehicle. An aggressive and fast
 controller is developed to complete the generalized race course in the shortest amount of time and evade the most number of obstacles.
