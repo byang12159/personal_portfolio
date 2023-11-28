@@ -44,6 +44,16 @@
 
 <p style="text-align: center; font-size: 36px"> Past Projects</p>
 
+<!-- Ongoing work -->
+<div style="text-align:center;">
+    <img src="{{ "images/dronerender.png" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+  <p style="text-align: center; font-size: 24px;">On-going work: Vision based drone Racing</p>
+  <p style="text-align: right;">Fall 2024</p>
+</div>
+
 
 <!-- NeRF Simulation -->
 <body>
