@@ -50,9 +50,11 @@
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-  <p style="text-align: center; font-size: 24px;">On-going work: Vision based drone Racing</p>
+  <p style="text-align: center; font-size: 24px;">Vision based drone Racing</p>
   <p style="text-align: right;">Fall 2024</p>
 </div>
+
+Work in progress.
 
 
 <!-- NeRF Simulation -->
