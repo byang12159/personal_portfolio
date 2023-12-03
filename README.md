@@ -45,6 +45,18 @@
 <p style="text-align: center; font-size: 36px"> Past Projects</p>
 
 <!-- Ongoing work -->
+
+<div style="text-align:center;">
+    <img src="{{ "images/segbot.gif" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+  <p style="text-align: center; font-size: 24px;">ME461 Project: Segbot</p>
+  <p style="text-align: right;">Fall 2024</p>
+</div>
+
+Work in progress...
+
 <div style="text-align:center;">
     <img src="{{ "images/dronerender.png" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
 </div>
@@ -54,7 +66,7 @@
   <p style="text-align: right;">Fall 2024</p>
 </div>
 
-Work in progress.
+Work in progress...
 
 
 <!-- NeRF Simulation -->
