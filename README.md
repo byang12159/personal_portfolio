@@ -177,10 +177,11 @@ Undergraduate Researcher at Human Dynamics and Controls Laboratory (HDCL), advis
 The standard clinical assessment of neurological diseases lies with a clinicians' manual techniques to elicit muscle response.  Their effectiveness and accuracy largely lies in their past experience and training. Traditional clinical training of motor skill assessment is limited because it relies on the instructor bringing in live patients for students to practice upon. The project aims to provide a medical training simulator that will be  accessible and provide consistent training opportunities for students that replace or reduce the need for human patients .
 
 Design a support system for the leg joint that will provide:
-Ability to imitate situations when patient is lying down and their legs flat out, and when patient is sitting down
-Ease of Transportation: The total weight of the frame is approximately 1.4 kg. The base HDPE plate is removable with 4 winged nuts for a more compact carry
-Ability for practitioner’s secondary hand to apply leverage to the underside of the thigh segment
-
+<ul>
+    <li>Ability to imitate situations when patient is lying down and their legs flat out, and when patient is sitting down</li>
+    <li>Ease of Transportation: The total weight of the frame is approximately 1.4 kg. The base HDPE plate is removable with 4 winged nuts for a more compact carry</li>
+    <li>Ability for practitioner’s secondary hand to apply leverage to the underside of the thigh segment</li>
+</ul>
 
 <div style="text-align:center;">
     <img src="{{ "images/bicep_spasticity_assembly.png" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" style="max-width: 85%; height: auto;"/>
