@@ -119,7 +119,7 @@ Accepted ICRA 2024
 Complete the test environment while demonstrating task space PD and feed forward control tracking, force control, and impedance control.
 
 <div style="text-align:center;">
-    <img src="{{ "images/needle_tribology_assembly.png" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
+    <img src="{{ "images/needle_tribology_assembly.png" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" style="max-width: 70%; height: auto;">
 </div>
 <body>
     <div class="image-container">
