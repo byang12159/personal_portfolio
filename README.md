@@ -125,6 +125,20 @@ Complete the test environment while demonstrating task space PD and feed forward
     </div>
 </body>
 
+<div style="display: flex;">
+
+    <!-- Image 1 -->
+    <div style="flex: 1;">
+        <img src="images/needle_tribology_assembly.png" alt="Image 1" style="max-width: 100%; height: auto;">
+    </div>
+
+    <!-- Image 2 -->
+    <div style="flex: 1;">
+        <img src="images/needle_closeup.png" alt="Image 2" style="max-width: 100%; height: auto;">
+    </div>
+
+</div>
+
 <div style="display: flex; justify-content: space-between;">
   <p style="text-align: center; font-size: 24px;">Automated Needle Insertion Mechanism for Needle Tribology</p>
   <p style="text-align: right;">Fall 2022</p>
