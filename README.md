@@ -123,8 +123,8 @@ Complete the test environment while demonstrating task space PD and feed forward
 </div>
 <body>
     <div class="image-container">
-        <img src="{{ "images/needle_closeup.png" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
-        <img src="{{ "images/needle_sideview.png" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
+        <img src="{{ "images/needle_closeup.png" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" style="max-width: 70%; height: auto;">
+        <img src="{{ "images/needle_sideview.png" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" style="max-width: 70%; height: auto;">
     </div>
 </body>
 
@@ -160,7 +160,7 @@ For longditudinal control, the acceleration is based on path curvature. Using th
 path, we calculated the radius of the circle generated from those three points. The radius of the circle tells us how much curvature is coming up in our path. We tuned a logarithm relationship between the radius and desired vehicle speed
 
 <div style="text-align:center;">
-    <img src="{{ "images/ankle_clonus_assembly.png" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
+    <img src="{{ "images/ankle_clonus_assembly.png" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" style="max-width: 85%; height: auto;"/>
 </div>
 
 <div style="display: flex; justify-content: space-between;">
@@ -179,7 +179,7 @@ Ability for practitioner’s secondary hand to apply leverage to the underside o
 
 
 <div style="text-align:center;">
-    <img src="{{ "images/bicep_spasticity_assembly.png" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
+    <img src="{{ "images/bicep_spasticity_assembly.png" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" style="max-width: 85%; height: auto;"/>
 </div>
 
 <div style="display: flex; justify-content: space-between;">
