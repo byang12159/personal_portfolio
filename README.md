@@ -33,11 +33,11 @@
         <div>
             <!-- <h1>Benjamin C Yang</h1> -->
             <p> 
-            I am currently a 2nd year Masters student in the Mechanical Engineering Department of the University of Illinois at Urbana Champaign. I am a graduate research assistant in the Reliable Autonomy Group @ UIUC. I aspire to become a full stack robotics engineer, working with both software and hardware. <br> 
-            
+            I am currently a 2nd year Masters student in the Mechanical Engineering Department of the University of Illinois at Urbana Champaign. I am a graduate research assistant in the Reliable Autonomy Group @ UIUC. I enjoy full stack robotics projects, working with both software and hardware.
+            <br> 
             In my free time I love to build and ride bikes, and apply endless upgrades to my ender3 printer.
-
-            Thingiverse Designs: https://www.thingiverse.com/byang11259/designs
+            <br>    
+            Thingiverse CAD Designs: https://www.thingiverse.com/byang11259/designs
             </p>
         </div>
     </div>
@@ -48,16 +48,7 @@
 
 <!-- Ongoing work -->
 
-<div style="text-align:center;">
-    <img src="{{ "images/segbot.gif" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
-</div>
 
-<div style="display: flex; justify-content: space-between;">
-  <p style="text-align: center; font-size: 24px;">ME461 Project: Segbot</p>
-  <p style="text-align: right;">Fall 2024</p>
-</div>
-
-Work in progress...
 
 <div style="text-align:center;">
     <img src="{{ "images/dronerender.png" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
@@ -69,6 +60,21 @@ Work in progress...
 </div>
 
 Work in progress...
+[GitHub Link](https://github.com/byang12159/drone_agi.git)
+
+<div style="text-align:center;">
+    <img src="{{ "images/segbot.gif" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+  <p style="text-align: center; font-size: 24px;">ME461 Project: Segbot</p>
+  <p style="text-align: right;">Fall 2024</p>
+</div>
+
+C program implementation of balancing segbot on Texas Instruments LAUNCHXL-F28379D. 
+
+[Detail Build](https://www.hackster.io/513006/me-461-final-project-self-erecting-and-navigating-robot-9fbbdc)
+[GitHub Link](https://github.com/JFiore31/ME461_repo/tree/e65d09bec3acffd1f8a8c2669753008c1a189d73/workspace/Final%20Project)
 
 
 <!-- NeRF Simulation -->
