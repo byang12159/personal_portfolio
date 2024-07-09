@@ -34,8 +34,10 @@
             <!-- <h1>Benjamin C Yang</h1> -->
             <p> 
             I am currently a 2nd year Masters student in the Mechanical Engineering Department of the University of Illinois at Urbana Champaign. I am a graduate research assistant in the Reliable Autonomy Group @ UIUC. I enjoy full stack robotics projects, working with both software and hardware.
+
             <br> 
             In my free time I love to build and ride bikes, and apply endless upgrades to my ender3 printer.
+
             <br>    
             Thingiverse CAD Designs: https://www.thingiverse.com/byang11259/designs
             </p>
@@ -51,7 +53,7 @@
 
 
 <div style="text-align:center;">
-    <img src="{{ "images/dronerender.png" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
+    <img src="{{ "images/agi_real.JPG" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
 </div>
 
 <div style="display: flex; justify-content: space-between;">
