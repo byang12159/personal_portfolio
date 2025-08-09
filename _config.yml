@@ -1,7 +1,7 @@
-title: "Benjamin C Yang"
+title: "Ben's Page"
 
 url: 'https://byang12159.github.io/' # your main domain
-baseurl: 'personal_portfolio/'
+baseurl: '/personal_portfolio/'
 
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
